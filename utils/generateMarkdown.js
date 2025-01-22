@@ -12,10 +12,6 @@ function renderLicenseBadge(license) {
   } else if (license === "CC") {
     return `![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)`;
   }
-
-  // {
-  //   return `![License](https://img.shields.io/badge/License-${license}-blue)`;
-  // }
 }
 
 // TODO: Create a function that returns the license link
@@ -97,12 +93,6 @@ copyright law, including all related and neighboring rights, to the extent all
 You can copy, modify, distribute and perform the work, even for commercial
 purposes, all without asking permission. See Other Information below.`;
   }
-
-  //   else {
-  //     //create a statement for each license on the list.
-  //     return `## License
-  // This project is licensed with ${license}`;
-  //   }
 }
 
 // TODO: Create a function to generate markdown for README
