@@ -54,7 +54,7 @@ function promptUser() {
       {
         type: "list",
         message:
-          "Enter your License. This lets other developers know what they can and cannot do with your project.",
+          "Select your License. This lets other developers know what they can and cannot do with your project.",
         name: "projectLicense",
         choices: ["MIT", "Apache", "GNU", "CC", "None"],
       },
