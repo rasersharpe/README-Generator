@@ -25,6 +25,8 @@ Clone the repository to your hard drive and then navigate to the repo in termina
 
 This is a straight forward app. It will ask you questions about your project and use your answers to generate and fill out a new README.md file. If one already exists in your repo, it will overwrite the existing one.
 
+[Here is a link to a video on usage ](https://www.youtube.com/watch?v=RshoUxVKg_M)
+
 ## Collaborators
 
 For this project, I sought help from the Xpert Learning Assistant and one of the Bootcamp tutors, Sangeetha, to help me understand the core concepts that go in to an app like this.
