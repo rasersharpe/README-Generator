@@ -1,5 +1,7 @@
 # README Generator
-  ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## Table of Contents
 
 - [Description](#description)
@@ -11,19 +13,21 @@
 
 ## Description
 
-README Generator is a quick and easy tool used to create proffessional README files.
+README Generator is a quick and easy tool used to create a proffessional README file. If you have ever needed to create one, you know that it's a bit of a tedious task. That's why I built this generator. It asks you some questions and generates a quality README.md file complete with license badges and a table of contents. Now there's no need to build one yourself.
+
+This project tought me how to install and use the Inquirer package and File System Module in Node.js. It also helped me understand the implimentation and impportance of functions in js.
 
 ## Installation
 
-Clone the repository to your hard drive and then navigate to the repo in terminal or bash. Then run the command node index.js.
+Clone the repository to your hard drive and then navigate to the repo in terminal or bash. Then run the command `node i` to install the Inquirer dependancy. Once installed type the command `node index.js`.
 
 ## Usage
 
-BLAH
+This is a straight forward app. It will ask you questions about your project and use your answers to generate and fill out a new README.md file. If one already exists in your repo, it will overwrite the existing one.
 
 ## Collaborators
 
-BLAH
+For this project, I sought help from the Xpert Learning Assistant and one of the Bootcamp tutors, Sangeetha, to help me understand the core concepts that go in to an app like this.
 
 ## Questions
 
@@ -31,6 +35,7 @@ If you have any questions, you can contact me on my [GitHub](https://github.com/
 Or you can [Email](mailto:jay.bhatt@me.com) me directly.
 
 ## License
+
 Copyright 2025.
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
